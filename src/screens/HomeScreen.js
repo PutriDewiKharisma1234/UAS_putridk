@@ -1,11 +1,14 @@
 import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
-import WelcomeScreen from './src/screens/WelcomeScreen'
 
-export default function App() {
+const HomeScreen = () => {
   return (
-    <WelcomeScreen/>
+    <View>
+      <Text>HomeScreen</Text>
+    </View>
   )
 }
+
+export default HomeScreen
 
 const styles = StyleSheet.create({})

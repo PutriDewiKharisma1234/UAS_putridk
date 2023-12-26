@@ -1,7 +1,8 @@
 import { Image, StyleSheet, Text, TouchableOpacity, View } from 'react-native'
 import React from 'react'
 
-const welcome = () => {
+
+const WelcomeScreen = () => {
   return (
     <View style={{flex: 1, backgroundColor: '#B3CDFF'}}>
       <Image
@@ -28,6 +29,6 @@ const welcome = () => {
   )
 }
 
-export default welcome
+export default WelcomeScreen
 
 const styles = StyleSheet.create({})
