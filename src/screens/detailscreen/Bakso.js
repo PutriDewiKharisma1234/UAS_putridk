@@ -18,18 +18,20 @@ const Bakso = () => {
         <Text style={{fontSize: 35, marginHorizontal: 10, marginTop: 5,fontWeight: 'bold', height: 50,}}>Bakso Telur Orek Sambal Jelotot</Text>
     </View>
     <Text style={{fontSize: 20, marginTop: 15, marginHorizontal: 10}}>
-        *Bahan-bahan:{"\n"}
+        *Bahan-Bahan:{"\n"}
         - 12 bakso sapi {"\n"}
         - 2-3 btr telur, digoreng orek {"\n"}
         - 3 lbr daun jeruk {"\n"}
         - cabe rawit, diiris (sesuai selera) {"\n"}
         - garam, gula, kaldu jamur {"\n"}
         - air secukupnya {"\n"}
+        {"\n"}
         *Bumbu yang dihaluskan: {"\n"}
         - 6 bh bawang putih {"\n"}
         - 4 bh bawang merah {"\n"}
         - 10-12 bh cabe merah keriting {"\n"}
-        *Cara membuat:{"\n"}
+        {"\n"}
+        *Cara Membuat:{"\n"}
         1. Tumis bumbu halus sampai harum, tambahkan rawit dan daun jeruk. {"\n"}
         Aduk-aduk sampai rata. {"\n"}
         2. Masukkan bakso, lalu tumis kembali. {"\n"}

@@ -28,7 +28,7 @@ const HomeScreen = ({navigation}) => {
       </TouchableOpacity>
 
       <TouchableOpacity style={{backgroundColor: '#F0EEEE', marginTop: 15, marginHorizontal: 20,}}
-      onPress={() => navigation.navigate('Bakso')}>
+      onPress={() => navigation.navigate('Kentang')}>
         <View style={{ flexDirection:'row', }}>
           <Image
           source={require('./image/sambalgoreng.jpg')}
@@ -45,7 +45,7 @@ const HomeScreen = ({navigation}) => {
       </TouchableOpacity>
 
       <TouchableOpacity style={{backgroundColor: '#F0EEEE', marginTop: 15, marginHorizontal: 20,}}
-      onPress={() => navigation.navigate('Bakso')}>
+      onPress={() => navigation.navigate('Spicy')}>
         <View style={{ flexDirection:'row', }}>
           <Image
           source={require('./image/spicychicken.jpg')}
@@ -63,7 +63,7 @@ const HomeScreen = ({navigation}) => {
       </TouchableOpacity>
 
       <TouchableOpacity style={{backgroundColor: '#F0EEEE', marginTop: 15, marginHorizontal: 20,}}
-      onPress={() => navigation.navigate('Bakso')}>
+      onPress={() => navigation.navigate('Capcay')}>
         <View style={{ flexDirection:'row', }}>
           <Image
           source={require('./image/capcay.jpg')}
@@ -81,7 +81,7 @@ const HomeScreen = ({navigation}) => {
       </TouchableOpacity>
 
       <TouchableOpacity style={{backgroundColor: '#F0EEEE', marginTop: 15, marginHorizontal: 20,}}
-      onPress={() => navigation.navigate('Bakso')}>
+      onPress={() => navigation.navigate('Terong')}>
         <View style={{ flexDirection:'row', }}>
           <Image
           source={require('./image/terongbalado.jpg')}
@@ -99,7 +99,7 @@ const HomeScreen = ({navigation}) => {
       </TouchableOpacity>
 
       <TouchableOpacity style={{backgroundColor: '#F0EEEE', marginTop: 15, marginHorizontal: 20,}}
-      onPress={() => navigation.navigate('Bakso')}>
+      onPress={() => navigation.navigate('Tempe')}>
         <View style={{ flexDirection:'row', }}>
           <Image
           source={require('./image/osengtempe.jpg')}
@@ -117,7 +117,7 @@ const HomeScreen = ({navigation}) => {
       </TouchableOpacity>
 
       <TouchableOpacity style={{backgroundColor: '#F0EEEE', marginTop: 15, marginHorizontal: 20,}}
-      onPress={() => navigation.navigate('Bakso')}>
+      onPress={() => navigation.navigate('Sop')}>
         <View style={{ flexDirection:'row', }}>
           <Image
           source={require('./image/sopdaging.jpg')}
@@ -135,7 +135,7 @@ const HomeScreen = ({navigation}) => {
       </TouchableOpacity>
 
       <TouchableOpacity style={{backgroundColor: '#F0EEEE', marginTop: 15, marginHorizontal: 20,}}
-      onPress={() => navigation.navigate('Bakso')}>
+      onPress={() => navigation.navigate('Jagung')}>
         <View style={{ flexDirection:'row', }}>
           <Image
           source={require('./image/dadarjagung.jpg')}
@@ -153,7 +153,7 @@ const HomeScreen = ({navigation}) => {
       </TouchableOpacity>
 
       <TouchableOpacity style={{backgroundColor: '#F0EEEE', marginTop: 15, marginHorizontal: 20,}}
-      onPress={() => navigation.navigate('Bakso')}>
+      onPress={() => navigation.navigate('Perkedel')}>
         <View style={{ flexDirection:'row', }}>
           <Image
           source={require('./image/perkedelkentang.webp')}
@@ -171,7 +171,7 @@ const HomeScreen = ({navigation}) => {
       </TouchableOpacity>
 
       <TouchableOpacity style={{backgroundColor: '#F0EEEE', marginTop: 15, marginHorizontal: 20,}}
-      onPress={() => navigation.navigate('Bakso')}>
+      onPress={() => navigation.navigate('Teri')}>
         <View style={{ flexDirection:'row', }}>
           <Image
           source={require('./image/sambalteri.jpg')}
